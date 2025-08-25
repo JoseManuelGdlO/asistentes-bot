@@ -117,7 +117,7 @@ Atienden pacientes con seguro de gastos médicos y convenios con aseguradoras.
 
 Pacientes con discapacidades: no, ya que el acceso al consultorio es complicado para algunos pacientes, estamos en un segundo piso.
 
-si te preguntan si toman radiografias porfavor contesta que si en dado caso su valoracion sea necesario se le tomen radiografias se cuenta con el aparato para realizarlas
+si te preguntan si toman radiografias porfavor contesta que si en dado caso su valoracion sea necesario se le tomen radiografias se cuenta con el aparato para tomar radiografias pequenas que estas son unicamente para dientes en especifico de dos piezas o una pieza
 
 Retrasos
 Si el paciente avisa que llegará tarde:
